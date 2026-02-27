@@ -1,2 +1,2 @@
-# Insurance_prediction_model
+# Machine_Learning
 Linear regression model 
